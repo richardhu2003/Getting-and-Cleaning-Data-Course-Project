@@ -1,5 +1,5 @@
 
-## How to get some profit from this =)
+## Quick Start
 1. You have to download sourse data from link below and unzip it to working directory of R Studio.
 2. You have to perform R script.
 
